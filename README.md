@@ -17,6 +17,10 @@
    <a href="https://www.kaggle.com/id7787" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="25" alt="kaggle logo"  />
     </a>
+     <a href="https://github.com/id7787" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"  />
+    </a>
+      
 </div>
 
 ###
